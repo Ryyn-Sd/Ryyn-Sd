@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="325" height="125">
+ <path id="path">
+        <animate attributeName="d" values="m0,80 h0;m0,80 h800;m0,80 h0" dur="10s" begin="0s" repeatCount="indefinite"/>
+    </path>
+    <text width="150" height="45" font-family='-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji"' font-size="4rem" x="10">
+        <textPath href="#path">Hi there! &#128075;</textPath>
+        <textPath href="#path">I am rayyan!</textPath>
+    </text>
+</svg>
