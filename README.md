@@ -1,4 +1,6 @@
-![Hi There! 👋 I am Rayyan!](https://raw.githubusercontent.com/Ryyn-Sd/Ryyn-Sd/master/hi.svg)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryyn-Sd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)![Rayyan's Github Stats](https://github-readme-stats.vercel.app/api?username=MrSun10&show_icons=true)
-<br>
-# I'm <a href="https://github.com/ryyn-sd">Ryyn-SD</a>
+<h1 align="center">I'm Rayyan Saidi &nbsp;&nbsp;&nbsp;<a href="https://rayyansaidi.com/"><img height="24" width="24" src="https://raw.githubusercontent.com/nthnchu/nthnchu/master/assets/link.svg"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/Ryyn-Sd"><img height="24" width="24" src="https://raw.githubusercontent.com/nthnchu/nthnchu/master/assets/github-mark.svg"></a></h1>
+<div align="center">
+  <img alt="Rayyan Saidi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ryyn-Sd&count_private=true&line_height=27&show_icons=true&theme=vue">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ryyn-Sd&theme=vue">
+  <sub><p align="center">⚡️ by <a target="_blank" href="https://git.io/readme-stats">git.io/readme-stats</a></p></sub>
+</div>
