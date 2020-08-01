@@ -4,3 +4,26 @@
   <img alt="Rayyan Saidi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ryyn-Sd&count_private=true&line_height=27&show_icons=true&theme={{ random_theme }}">
   <sub><p align="center">⚡️ by <a target="_blank" href="https://git.io/readme-stats">git.io/readme-stats</a> and <a href="https://github.com/nthnchu">nthnchu</a></p></sub>
 </div>
+<hr>
+<div>
+ <h3>Hi There 👋! Welcome to my GitHub profile!</h3>
+ <br />
+ <b>
+  <ul>
+   <li>
+    🔭 I’m currently working on:
+    <br />
+    <br />
+    <a href="https://github.com/rayyansaidi-com/app"><img alt="rayyansaidi-com/app" src="https://github-readme-stats.vercel.app/api/pin?username=rayyansaidi-com&repo=app&show_owner=true&cache_seconds=1800&theme=shades-of-purple" /></a>
+   </li>
+   <br />
+   <br />
+   <li>
+    🌱 I’m currently learning:
+    <br />
+    <br />
+    <a href="https://github.com/facebook/react"><img alt="react" src="https://github-readme-stats.vercel.app/api/pin?username=facebook&repo=react&cache_seconds=1800&theme=shades-of-purple" /></a>
+   </li>
+  </ul>
+ </b>
+</div>
