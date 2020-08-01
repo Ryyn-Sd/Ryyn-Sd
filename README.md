@@ -4,6 +4,7 @@
   <img alt="Rayyan Saidi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ryyn-Sd&count_private=true&line_height=27&show_icons=true&theme=default_repocard">
   <sub><p align="center">⚡️ by <a target="_blank" href="https://git.io/readme-stats">git.io/readme-stats</a> and <a href="https://github.com/nthnchu">nthnchu</a></p></sub>
 </div>
+---
 <div>
  <h3>Hi There 👋! Welcome to my GitHub profile!</h3>
  <br />
