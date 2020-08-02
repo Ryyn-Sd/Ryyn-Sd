@@ -28,7 +28,7 @@
     And:
     <br />
     <br />
-    <a href="https://github.com/JuliaLang/julia"><img alt="react" src="https://github-readme-stats.vercel.app/api/pin?username=facebook&repo=react&cache_seconds=1800&theme={{ random_theme }}" /></a>
+    <a href="https://github.com/JuliaLang/julia"><img alt="julia" src="https://github-readme-stats.vercel.app/api/pin?username=JuliaLang&repo=julia&cache_seconds=1800&theme={{ random_theme }}" /></a>
    </li>
   </ul>
  </b>
