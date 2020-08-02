@@ -18,6 +18,7 @@
    </li>
    <br />
    <br />
+   <hr>
    <li>
     🌱 I’m currently learning:
     <br />
