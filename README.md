@@ -1,7 +1,7 @@
 <h1 align="center">I'm Rayyan Saidi &nbsp;&nbsp;&nbsp;<a href="https://rayyansaidi.com/"><img height="24" width="24" src="https://raw.githubusercontent.com/nthnchu/nthnchu/master/assets/link.svg"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/Ryyn-Sd"><img height="24" width="24" src="https://raw.githubusercontent.com/nthnchu/nthnchu/master/assets/github-mark.svg"></a></h1>
 <div align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ryyn-Sd&theme=bear">
-  <img alt="Rayyan Saidi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ryyn-Sd&count_private=true&line_height=27&show_icons=true&theme=bear">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ryyn-Sd&theme=radical">
+  <img alt="Rayyan Saidi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ryyn-Sd&count_private=true&line_height=27&show_icons=true&theme=radical">
   <sub><p align="center">⚡️ by <a target="_blank" href="https://git.io/readme-stats">git.io/readme-stats</a> and <a href="https://github.com/nthnchu">nthnchu</a></p></sub>
 </div>
 <hr>
@@ -14,7 +14,7 @@
     🔭 I’m currently working on:
     <br />
     <br>
-    <a href="https://github.com/rayyansaidi-com/app"><img alt="rayyansaidi-com/app" src="https://github-readme-stats.vercel.app/api/pin?username=rayyansaidi-com&repo=app&show_owner=true&cache_seconds=1800&theme=bear" /></a>
+    <a href="https://github.com/rayyansaidi-com/app"><img alt="rayyansaidi-com/app" src="https://github-readme-stats.vercel.app/api/pin?username=rayyansaidi-com&repo=app&show_owner=true&cache_seconds=1800&theme=radical" /></a>
    </li>
    <br /> 
    <hr>
@@ -22,13 +22,13 @@
     🌱 I’m currently learning:
     <br />
     <br />
-    <a href="https://github.com/facebook/react"><img alt="react" src="https://github-readme-stats.vercel.app/api/pin?username=facebook&repo=react&cache_seconds=1800&theme=bear" /></a>
+    <a href="https://github.com/facebook/react"><img alt="react" src="https://github-readme-stats.vercel.app/api/pin?username=facebook&repo=react&cache_seconds=1800&theme=radical" /></a>
    </li>
     <li>
     And:
     <br />
     <br />
-    <a href="https://github.com/JuliaLang/julia"><img alt="julia" src="https://github-readme-stats.vercel.app/api/pin?username=JuliaLang&repo=julia&cache_seconds=1800&theme=bear" /></a>
+    <a href="https://github.com/JuliaLang/julia"><img alt="julia" src="https://github-readme-stats.vercel.app/api/pin?username=JuliaLang&repo=julia&cache_seconds=1800&theme=radical" /></a>
    </li>
   </ul>
  </b>
