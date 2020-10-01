@@ -6,7 +6,7 @@ name: Theme
 # events but only for the master branch
 on:
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '*/5 * * * *'
   push:
   workflow_dispatch:
 
